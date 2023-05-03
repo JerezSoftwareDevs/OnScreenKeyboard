@@ -1,0 +1,13 @@
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.OnScreenKey.resources
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.Resources.resources
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.vbproj.GenerateResource.cache
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.vbproj.CoreCompileInputs.cache
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\bin\Debug\OnScreen_KeyBoard.exe.config
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\bin\Debug\OnScreen_KeyBoard.exe
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\bin\Debug\OnScreen_KeyBoard.pdb
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\bin\Debug\OnScreen_KeyBoard.xml
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.vbproj.CopyComplete
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.exe
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.xml
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.pdb
+D:\ArjayProgramPractice\OnScreen_KeyBoard\OnScreen_KeyBoard\obj\Debug\OnScreen_KeyBoard.vbprojAssemblyReference.cache
